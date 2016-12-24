@@ -12,7 +12,9 @@ change on server 5
 change on server 6
 change on client 5
 change on client 6
+<<<<<<< HEAD
 S7
 S8
 S9
 C7
+C8
